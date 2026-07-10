@@ -1,5 +1,5 @@
 # Myshell
-A minimal Unix shell in C; supporting pipes, rediections, built-in commands and background jobs.
+A minimal Unix shell written in C, supporting pipes, redirections, built-in commands, background jobs, and basic environment variable expansion.
 
 ## Features
  
